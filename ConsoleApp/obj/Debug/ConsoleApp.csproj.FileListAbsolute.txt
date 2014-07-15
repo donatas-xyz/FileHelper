@@ -1,0 +1,9 @@
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\bin\Debug\TestFile.txt
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\bin\Debug\FileHelper.dll
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\ConsoleApp\bin\Debug\FileHelper.pdb

@@ -1,0 +1,6 @@
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\FileHelper\bin\Debug\TestFile.txt
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\FileHelper\bin\Debug\FileHelper.dll
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\FileHelper\bin\Debug\FileHelper.pdb
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\FileHelper\obj\Debug\FileHelper.csprojResolveAssemblyReference.cache
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\FileHelper\obj\Debug\FileHelper.dll
+C:\Users\Donatas\Documents\Visual Studio 2013\Projects\FileHelper\FileHelper\obj\Debug\FileHelper.pdb
